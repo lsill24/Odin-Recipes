@@ -1,0 +1,27 @@
+html,body{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    margin: 0;
+}
+
+body{
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fefbe9;
+    display: flex;
+    
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    color: #f0a04b;
+}
+
+.foodname{
+    color: #183a1d;
+}
+.containfood{
+
+}
